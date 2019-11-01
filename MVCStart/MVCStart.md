@@ -10,7 +10,7 @@
 
 ![Select Template](SelectTemplate.png)
 
-1. Enter a name for your project and optionally change the solution name and click *Create* 
+1. Enter a name for your project in the *Configure your new project* dialog box and optionally change the solution name and click *Create* 
 1. In the *Create a new ASP.NET Web Application* dialog select **MVC** and make sure the *MVC* checkbox is marked
 1. Also check the *Also create a project for unit tests*
 1. Click *Create*
