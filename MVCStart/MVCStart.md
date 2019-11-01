@@ -2,7 +2,10 @@
 
 ## 1. Create Project
 
-1. Click on *Create a new project*
+1. When you start Visual Studio Click on *Create a new project* in the dialog box.
+
+![Get Started](GetStarted.png)
+
 1. Select template: **ASP.NET Web Application (.NET Framework)** and click *Next*
 
 ![Select Template](SelectTemplate.png)
